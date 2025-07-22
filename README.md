@@ -1,4 +1,4 @@
-# awesome dense grounded understanding
+# awesome-perception-and-understanding
 
 ## Resources
 
