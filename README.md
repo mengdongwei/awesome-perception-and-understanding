@@ -1,1 +1,1 @@
-# awesome-ground-caption
+# awesome dense grounded understanding
